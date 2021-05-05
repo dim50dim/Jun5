@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(173, 238, 142);
+}
+.one {
+    text-align: center;
+    margin-top: 150px;
+}
+.btn {
+    text-align: center;
+    margin-left: 20px;
+}
